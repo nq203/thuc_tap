@@ -1,0 +1,121 @@
+body{
+    margin: 0px;
+}
+html{
+    font-family: 'Noto Sans';
+    font-style: normal;
+}
+.link{
+    margin-right: 30px;
+    margin-left: 30px;
+    text-decoration: none;
+    
+}
+.heading{
+    height: 60px;
+}
+.intro{
+    display: flex;
+    background-image: url("Vector.png");
+    height: 450px;
+}
+.intro_item1{
+    margin-top: 70px;
+    margin-left: 100px;
+    display: block;
+    width: 550px;
+}
+.intro_item2{
+    margin-left: 400px;
+}
+.intro_item2_img{
+    margin-top: 20px;
+    height: 350px;
+}
+.exp{
+    display: flex;
+    height: 700px;
+}
+.exp1{
+    margin-top: 75px;
+    display: block;
+    margin-left: 100px;
+}
+.exp1_img{
+    width: 640px;
+    height: 456px;
+}
+.exp2{
+    margin-top: 75px;
+    margin-left: 50px;
+    width: 320px;
+}
+.exp3{
+    margin-top: 50px;
+    margin-left: 5px;
+    width: 320px;
+}
+.img775{
+    height: 132px;
+}
+.chuyenvien{
+    margin-left: 100px;
+}
+.chuyenvien_item1_img{
+    height: 640px;
+    border-radius: 20px;
+}
+.chuyenvien_item2_top{
+    margin-top: 120px;
+    margin-left: 20px;
+    display: block;
+    background-image: url("group-asia-young-creative-people-smart-casual-wear-looking-camera-smiling\ 1.png");
+    width: 640px;
+    height: 304px;
+    position: relative;
+    border-radius: 20px;
+}
+.chuyenvien_item2_top_text{
+    color: white;
+    position: absolute;
+    top: 200px;
+    left: 20px;
+}
+.chuyenvien_item2_bottom{
+    margin-top: 20px;
+    margin-left: 20px;
+    
+    display:flex;
+}
+.chuyenvien_item2_bottom_img1{
+    background-image: url("image\ 34.png");
+    width: 304px;
+    height: 304px;
+    border-radius: 20px;
+    position: relative;
+}
+.chuyenvien_item2_bottom_img2{
+    background-image: url("image\ 35.png");
+    width: 304px;
+    height: 304px;
+    margin-left: 32px;
+    border-radius: 20px;
+    position: relative;
+}
+
+.chuyenvien_item3_text{
+    text-align: center;
+    width: 1234px;
+    height: 48px;
+
+}
+.chuyenvien_item3_p{
+    color: rgb(111, 122, 131);
+    size: 16px;
+
+}
+.lienket{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
